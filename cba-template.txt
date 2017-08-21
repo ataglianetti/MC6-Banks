@@ -12,6 +12,7 @@ Preset D
 Set Bank to Device Index
 
 Preset E
+PC #0 (Knobs / Live Mode)
 >600ms
 
 Preset F
