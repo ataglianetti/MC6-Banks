@@ -1,0 +1,43 @@
+Globals
+Preset A
+
+Preset B
+>600ms
+Toggle MC6 Page
+
+Preset C
+
+Preset D
+>600ms
+Set Bank to Device Index
+
+Preset E
+>600ms
+
+Preset F
+>600ms
+Go to Looper / Last Used Bank
+
+Preset G
+Device Bank 1
+MC6 Toggle Page
+
+Preset H
+Device Bank 2
+MC6 Toggle Page
+
+Preset I
+Device Bank 3
+MC6 Toggle Page
+
+Preset J
+Device Bank 4
+MC6 Toggle Page
+
+Preset K
+Device Bank 5
+MC6 Toggle Page
+
+Preset L
+Device Bank 6
+MC6 Toggle Page
