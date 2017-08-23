@@ -1,3 +1,5 @@
+Sysex: Bank for controlling the Chase Bliss Audio Tonal Recall, Analog Delay. MIDI Ch. 2.
+
 Globals
 Preset A
 

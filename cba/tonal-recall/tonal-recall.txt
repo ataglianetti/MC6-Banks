@@ -1,0 +1,40 @@
+Sysex: Bank for controlling the Chase Bliss Audio Tonal Recall, Analog Delay. Set to MIDI Ch. 2.
+
+Switch A: 
+Press = CC93 for Tap Tempo, CC102 V127 for Retriggering Ramping.
+Hold = CC18 Toggle Hold; Hold for Max Regen / Oscillation. Release sets CC18 to 64.
+
+Switch B:
+Press = CC102 Toggle; On / Off
+
+Switch C:
+Press = MIDI Clock
+Hold = CC51 Toggle; MIDI Clock Ignore
+
+Switch D:
+Press = PC Scroll Down
+
+Preset E
+Press = PC Message #0 (Preset / Live Mode)
+Hold = MC6 Toggle Page
+
+Preset F
+Press = PC Scroll Up
+
+Preset G
+Press = PC1 Message, MC6 Toggle Page
+
+Preset H
+Press = PC21 Message, MC6 Toggle Page
+
+Preset I
+Press = PC41 Message, MC6 Toggle Page
+
+Preset J
+Press = PC61 Message, MC6 Toggle Page
+
+Preset K
+Press = PC81 Message, MC6 Toggle Page
+
+Preset L
+Press = PC101 Message, MC6 Toggle Page
