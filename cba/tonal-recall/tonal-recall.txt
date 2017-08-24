@@ -1,40 +1,13 @@
-Sysex: Bank for controlling the Chase Bliss Audio Tonal Recall, Analog Delay. Set to MIDI Ch. 2.
+Bank for controlling the Chase Bliss Audio Tonal Recall, Analog Delay. Tonal Recall must be set to receive on MIDI Channel 2. Refer to the Tonal Recall MIDI Sheet for instructions on setting the MIDI Channel.
 
-Switch A: 
-Press = CC93 for Tap Tempo, CC102 V127 for Retriggering Ramping.
-Hold = CC18 Toggle Hold; Hold for Max Regen / Oscillation. Release sets CC18 to 64.
+See readme document for more information.
 
-Switch B:
-Press = CC102 Toggle; On / Off
+Preset Functions:
+A: Press for TapTempo and to retrigger ramping. Hold for oscillation. 
+B: On / Off. 
+C: Press for MIDI Clock On. Hold to toggle MIDI Clock Ignore.
+E: Press for Live / Knobs mode; Hold for MC6 Toggle Page.
+D & F: Press for PC Scroll Down / Up. 
+G - L (MC6 Page 2): Shortcuts to PC Messages 1, 21, 41, 61, 81, 101. 
 
-Switch C:
-Press = MIDI Clock
-Hold = CC51 Toggle; MIDI Clock Ignore
-
-Switch D:
-Press = PC Scroll Down
-
-Preset E
-Press = PC Message #0 (Preset / Live Mode)
-Hold = MC6 Toggle Page
-
-Preset F
-Press = PC Scroll Up
-
-Preset G
-Press = PC1 Message, MC6 Toggle Page
-
-Preset H
-Press = PC21 Message, MC6 Toggle Page
-
-Preset I
-Press = PC41 Message, MC6 Toggle Page
-
-Preset J
-Press = PC61 Message, MC6 Toggle Page
-
-Preset K
-Press = PC81 Message, MC6 Toggle Page
-
-Preset L
-Press = PC101 Message, MC6 Toggle Page
+If you categorize your Tonal Recall presets using program change numbers, you can use these MC6 presets G-L to quickly access specific “Banks” of presets. Pressing switches G-L will send a PC message and return you to MC6 Page 1, allowing you to effectively set a bank, and then scroll programs.
