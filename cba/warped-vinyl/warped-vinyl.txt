@@ -1,7 +1,7 @@
-Bank for controlling the Chase Bliss Audio Tonal Recall, Analog Delay. Tonal Recall must be set to receive on MIDI Channel 2. Refer to the Tonal Recall MIDI Sheet for instructions on setting the MIDI Channel.
+Bank for controlling the Chase Bliss Audio Warped Vinyl, Analog Tremolo. Gravitas must be set to receive on MIDI Channel 7. Refer to the Tonal Recall MIDI Sheet for instructions on setting the MIDI Channel.
 
 Preset Functions:
-A: Press for TapTempo and to retrigger ramping. Hold for oscillation. 
+A: Press for TapTempo and to retrigger ramping.
 B: On / Off. 
 C: Press for MIDI Clock On. Hold to toggle MIDI Clock Ignore.
 D: Press for PC Scroll Down.
